@@ -1,1 +1,4 @@
-# Seetaljit-Mangang
+Seetaljit-Mangang
+B.Tech CSE
+Gulzar Group of Institutes
+
